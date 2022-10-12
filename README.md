@@ -42,3 +42,16 @@ Now you have copied the contents of the first-contributions repository in github
 ## Create a branch
 
 Now create a branch by clicking on the "Current branch" icon at the top and then click on "New branch":
+
+ow create a branch by clicking on the "Current branch" icon at the top and then click on "New branch":
+
+<img style="left;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-create-branch.png" alt="make a branch" />
+
+Name your branch <add-your-name>. For example, "add-james-smith"
+
+<img style="left;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-create-branch-name.png" alt="name your branch" />
+
+Click on `Create branch`
+
+## Make necessary changes and commit those changes
+
