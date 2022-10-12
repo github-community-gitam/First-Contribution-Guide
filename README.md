@@ -40,3 +40,5 @@ After you click on "Open GitHubDesktop.exe" the contents will be downloaded to y
 Now you have copied the contents of the first-contributions repository in github to your computer.
 
 ## Create a branch
+
+Now create a branch by clicking on the "Current branch" icon at the top and then click on "New branch":
