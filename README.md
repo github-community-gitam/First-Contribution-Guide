@@ -2,6 +2,14 @@
 Repository that helps in making your first contribution 
 
 # First Contributions
+# HOW CAN YOU MAKE A CONTRIBUTION
+## 3 WAYS IT IS
+ 
+## 1. USING FILE UPLOAD 
+## 2. GITHUB DESKTOP
+## 3. GIT COMMANDS 
+
+
 
 |<img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="200">|GitHub Desktop Edition|
 |---|---|
