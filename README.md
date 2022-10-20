@@ -55,3 +55,47 @@ Click on `Create branch`
 
 ## Make necessary changes and commit those changes
 
+Now Add your name and github profile link in the html code
+Format : 
+Example: If your name is James Smith, It should look like this.
+\[octacat](https://github.com/Jamessmith)
+
+You can see that there are changes to Contributors.md and they have been added to the Github Desktop.
+
+Now commit those changes:
+
+Write the message "Add `<your-name>` to Contributors list" in the *summary* field.
+
+Replace `<your-name>` with your name.
+
+Click on the button that says `Commit to add-your-name`.
+
+<img style="left;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-commit1.png" alt="commit your changes" />
+
+At the bottom, you can see that the commit has been created.
+
+<img style="left;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-commit2.png" alt="commit your changes" />
+
+## Push changes to github
+
+Click on File->Options and sign-in to Github.com. Type in your Github username and password.
+
+<img style="left;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-sign-in.png" alt="log-in to Github" />
+
+Click the `Publish` button on the top right.
+
+<img style="left;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-publish1.png" alt="push your changes" />
+
+## Submit your changes for review
+
+If you go to your repository on github, you'll see  `Compare & pull request` button. click on that button.
+
+<img style="left;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/compare-and-pull.png" alt="create a pull request" />
+
+Now submit the pull request.
+
+## Where to go from here?
+
+Congrats!  You just completed the standard _fork -> clone -> edit -> PR_ workflow that you'll encounter often as a contributor!
+
+Celebrate your contribution
