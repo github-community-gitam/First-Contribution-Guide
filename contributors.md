@@ -5,3 +5,4 @@
 - [Nanda Rajesh](https://github.com/Nanda-Rajesh)
 - [Sumanth](https://github.com/supersu-man)
 - [Jashwanth](https://github.com/Jashwanth512)
+- [Tarun Gudapati](https://github.com/Tarun-Gudapati)
